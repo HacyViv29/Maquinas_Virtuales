@@ -1,0 +1,5 @@
+Hola, este es un script de manejo del tiempo y ciclo until
+La hora actual es: 13:45:58
+La hora actual es: 13:45:59
+La hora actual es: 13:46:00
+La hora actual es: 13:46:01
